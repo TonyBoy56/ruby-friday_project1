@@ -1,3 +1,9 @@
 body {
   background-color: blanchedalmond;
 }
+
+img {
+  text-align: left;
+  width: 50%;
+  max-width: auto; 
+}
