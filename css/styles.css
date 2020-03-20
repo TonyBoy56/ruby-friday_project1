@@ -1,9 +1,21 @@
 body {
   background-color: blanchedalmond;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100vw;
 }
 
 h1 {
   text-align: center;
+}
+
+p#aboutMe {
+  float: left;
+  margin: 12px;
+  padding: 4px;
+  background-color: #9f7e69 ;
 }
 
 img {
@@ -12,4 +24,24 @@ img {
   width: 50%;
   max-width: auto; 
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
+
+.panel {
+  background-color: #172342;
+  padding: 1rem;
+  color: #283044;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+}
+
+h3 {
+  color: whitesmoke;
+}
+
+ul {
+  color: orchid;
+}
+
+ol {
+  color: orchid;
 }
