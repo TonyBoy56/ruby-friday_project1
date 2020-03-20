@@ -6,7 +6,7 @@
 
 ## Description
 _Link to gh-pages branch_
-_[INSERT GH LINK HERE]_
+_https://assassin56.github.io/ruby-friday_project1/_
 
 _This is a webpage that represents my portfolio. Here You will find information about me, my personal life, and my career ambitions followed by my work history._
 
