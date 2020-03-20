@@ -12,9 +12,9 @@ h1 {
 }
 
 p#aboutMe {
-  float: left;
+  float: right;
   margin: 12px;
-  padding: 4px;
+  padding: 5px;
   background-color: #9f7e69 ;
 }
 
@@ -28,7 +28,7 @@ img {
 
 .panel {
   background-color: #172342;
-  padding: 1rem;
+  padding: 5rem;
   color: #283044;
   border-radius: 0.5rem;
   margin: 1rem 0;
