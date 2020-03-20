@@ -5,16 +5,25 @@
 #### By _**Antonio Cruz**_
 
 ## Description
+_Link to gh-pages branch_
+_[INSERT GH LINK HERE]_
 
- 
+_This is a webpage that represents my portfolio. Here You will find information about me, my personal life, and my career ambitions followed by my work history._
+
+## Previous Projects
+
+_[INSERT PROJ. REPOS HERE]_
+_[INSERT PROJ. REPOS HERE]_
+_[INSERT PROJ. REPOS HERE]_
 
 ## Setup/Installation Requirements
 
 Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
 
-* cd desktop
-* git clone https://github.com/christinereina/epicodus-favoritethings
-* Open folder and drag favorite-things.html file into your preferred web browser
+* _Install Git Bash_
+* _git init from desktop_
+* _git clone this repo from desktop https://github.com/assassin56/Friday_Project.git_
+* _open index.html in browser, or drag/drop index.html in browser._
 
 ## Known Bugs
 
