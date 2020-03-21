@@ -12,9 +12,10 @@ _This is a webpage that represents my portfolio. Here You will find information 
 
 ## Previous Projects
 
-_[INSERT PROJ. REPOS HERE]_
-_[INSERT PROJ. REPOS HERE]_
-_[INSERT PROJ. REPOS HERE]_
+* _https://github.com/assassin56/Java-and-the-Quest-for-the-Scripts_
+* _https://github.com/assassin56/api-practice_
+* _https://github.com/assassin56/friday_project4_
+* _https://github.com/assassin56/animal-page_
 
 ## Setup/Installation Requirements
 
